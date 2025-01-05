@@ -2,7 +2,7 @@
 
 ### Objective
 
-Make a simple demo that shows how to use Godot (4.3) Touch Input Manager and its capabilities. This demo should run on mobile devices (only iOS).
+Make a simple learning project that use Godot4's touch input. This playground project should run on iOS devices.
 
 Inspired by a work from `mazvote` shared through [Reddit](https://www.reddit.com/r/godot/comments/fe0gux/godot_touch_input_manager_is_a_script_that_adds/)
 
