@@ -9,4 +9,3 @@ Inspired by a work from `mazvote` shared through [Reddit](https://www.reddit.com
 ### Links to consider
 
 - [Godot 4 to Xcode to iOS Device](https://www.youtube.com/watch?v=ClGFSwWRIdw)
-  > > > > > > > 0d33533 (chore(README.md): add some details about project)
